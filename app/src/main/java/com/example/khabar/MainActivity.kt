@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         installSplashScreen()
         setContent {
-            KhabarTheme {
+            KhabarTheme {  1
 
             }
         }
